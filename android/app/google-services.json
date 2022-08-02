@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "480199082859",
+    "project_id": "event-ticketing-f59b9",
+    "storage_bucket": "event-ticketing-f59b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480199082859:android:847a8003d2ac892568022e",
+        "android_client_info": {
+          "package_name": "com.example.event_ticketing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480199082859-vlk5t6va0pe2vo32a7u5gacbde150gie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6J9pPljkhfRaJNx6m80fC6WED6fJ84UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480199082859-vlk5t6va0pe2vo32a7u5gacbde150gie.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480199082859-lef7rmfeda5uauha2iontrlgevgtb7vc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eventTicketing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
